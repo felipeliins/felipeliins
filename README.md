@@ -15,7 +15,7 @@
 ##
 
 <!--Icons Social_Medias-->
-<a href="https://www.linkedin.com/in/jo%C3%A3o-lucas-a460b421b/" target="_blank">
+<a href="https://www.linkedin.com/felipe-liins" target="_blank">
   <img align="right" alt="felipe-liins" width="35" src="https://img.icons8.com/fluency/48/000000/linkedin.png">
 <a href = "mailto:linsfelipe1819@gmail.com" target="_blank">
   <img align="right" alt="JL_Gmail" width="35" src="https://img.icons8.com/fluency/48/000000/gmail-new.png">
